@@ -1,2 +1,3 @@
 # Hello-World
-My first git-hub repository
+
+it's Thursday
